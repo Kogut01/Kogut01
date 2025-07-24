@@ -7,7 +7,7 @@ Hi, I'm Michał Popiel, a Computer Science student at Białystok University of T
 - Computer Science, Białystok University of Technology
 
 ### Goals
-- Gain experience in cybersecurity or Linux system administration
+- Gain experience in Cybersecurity or Linux system administration
 - Find an internship or first job in the IT industry
 
 ### Contact
